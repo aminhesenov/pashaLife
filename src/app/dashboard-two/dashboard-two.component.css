@@ -1,0 +1,477 @@
+
+/*search*/
+
+.rightDiv{
+    /* Rectangle 18 */
+position: absolute;
+left: calc(50% - 1173px/2 + 128px);
+top: 0%;
+bottom: 0%;
+width: 1173px;
+height: 1111px;
+background: #FDFDFD;
+}
+.manPhoto{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+float: right;
+height: 40px;
+width: 40px;
+border-radius: 0px;
+margin: 10px 27px 10px 16px;
+}
+.notification{
+    /* Vector */
+left: 6.3%;
+cursor: pointer;
+float: right;
+right: 6.26%;
+top: 6.25%;
+bottom: 6.27%;
+margin: 19.5px 16px 19.51px 0;
+}
+.circle{
+position: absolute;
+width: 16px;
+height: 16px;
+margin-top: 2px;
+right: 90px;
+top: calc(50% - 16px/2 - 535.5px);
+}
+.horizontal{
+margin-top: 60px;
+height: 1px;
+left: 256px;
+right: -38px;
+top: 60px;
+
+/* divider */
+width: 1211px;
+border-radius: 0px;
+
+background: #EBEFF2;
+}
+.searchText{
+    /* Axtarış */
+padding: 13px 0 0 37px;
+width: 60px;
+height: 22px;
+left: 293px;
+top: 74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 22px;
+
+color: #000000;
+}
+.nameSurname{
+
+width: 236px;
+height: 45px;
+left: 292px;
+top: 113px;
+margin: 17px 0 0 36px;
+background: #FFFFFF;
+border: 1px solid #E3E8EF;
+box-sizing: border-box;
+border-radius: 7px;
+
+/*text*/
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+padding: 13px 0 14px 16px;
+line-height: 18px;
+/* identical to box height */
+color: #ABB6C5;
+}
+.nameSurname:focus{
+    outline: none !important;
+    border: 1px solid #4F9BFF;
+}
+.structure{
+
+    width: 236px;
+    height: 45px;
+    left: 292px;
+    top: 113px;
+    margin: 17px 0 0 52px;
+    background: #FFFFFF;
+    border: 1px solid #E3E8EF;
+    box-sizing: border-box;
+    border-radius: 7px;
+    
+    /*text*/
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    padding: 13px 0 14px 16px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #ABB6C5;
+    }
+    .structure:focus{
+        outline: none !important;
+        border: 1px solid #4F9BFF;
+    }
+    .position{
+
+        width: 236px;
+        height: 45px;
+        left: 292px;
+        top: 113px;
+        margin: 17px 0 0 48px;
+        background: #FFFFFF;
+        border: 1px solid #E3E8EF;
+        box-sizing: border-box;
+        border-radius: 7px;
+        
+        /*text*/
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        padding: 13px 0 14px 16px;
+        line-height: 18px;
+        /* identical to box height */
+        color: #ABB6C5;
+        }
+        .position:focus{
+            outline: none !important;
+            border: 1px solid #4F9BFF;
+        }
+        .searchBtn{
+        
+            width: 128px;
+            height: 45px;
+            left: 1274px;
+            top: 113px;
+            margin: 52px 0 0 174px;
+           background: linear-gradient(180deg, #00C6FF -144.44%, #0072FF 233.33%);
+           border-radius: 6px;
+           border: none;
+           font-family: Roboto;
+           font-style: normal;
+           font-weight: 500;
+           font-size: 19px;
+           line-height: 22px;
+           padding: 12px 41px 11px 41px;
+           color: #FFFFFF;
+        }
+        .searchBtn:hover{
+            background: linear-gradient(180deg, #1088AA -144.44%, #0072FF 233.33%);
+        }
+
+        .threeLine{
+            margin: 73px 0 0 680px;
+        }
+        
+        /*personal*/
+
+    .personBox{
+    position: absolute;
+    width: 242px;
+    left: calc(84% - 242px/2 - 305.5px);
+    margin-top: 20px;
+    background: #FFFFFF;
+    box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+    border-radius: 6.76021px;
+    }
+    .imageEgiht{
+    width: 63.18px;
+    height: 63.18px;
+    left: 311.1px;
+    top: 202.56px;
+    margin: 21.56px 0 0 23.1px;
+    }
+    .toghrul{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    
+    color: #6F737C;
+    }
+    .emailToghrul{
+    width: 121px;
+    height: 13px;
+    
+    margin: -45px 0 0 90px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    color: #6F737C;
+    }
+    .doubleTwo1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9.29529px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    width: 30.42px;
+    height: 17.75px;
+    left: 376.29px;
+    top: 254.31px;
+    padding: 4px 0 0 5px;
+    background: #F2F0FE;
+    border-radius: 1.69005px;
+    color: #826CFC;
+    }
+    .groupTwo{
+        margin: 8.5px 0 0 88.29px;
+    }
+    .doubleTwo2{
+    width: 30.42px;
+    height: 17.75px;
+    left: 410.94px;
+    top: 254.31px;
+    
+    background: #C0E8FF;
+    border-radius: 1.69005px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9.29529px;
+    line-height: 11px;
+    /* identical to box height */
+    padding: 4px 0 0 5px;
+    color: #0085FF;
+    
+    margin: -34px 0 0 35px;
+    }
+    .doubleTwo3{
+    width: 30.42px;
+    height: 17.75px;
+    left: 445.58px;
+    top: 254.31px;
+    
+    background: #D7FFE2;
+    border-radius: 1.69005px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9.29529px;
+    line-height: 11px;
+    /* identical to box height */
+    margin: -17.5px 0 0 70px;
+    padding: 4px 0 0 5px;
+    color: #54B806;
+    }
+    .doubleTwo4{
+    width: 30.42px;
+    height: 17.75px;
+    left: 480.23px;
+    top: 254.31px;
+    
+    background: #FFF9C7;
+    border-radius: 1.69005px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9.29529px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    margin: -17.5px 0 0 105px;
+    padding: 4px 0 0 5px;
+    color: #D5A707;
+    }
+    .spDiv{
+    width: 174.08px;
+    height: 50.7px;
+    left: 321.76px;
+    top: 285.25px;
+    
+    background: #F7FCFF;
+    border-radius: 5.07016px;
+    margin: 13.2px 0 0 33.76px;
+    }
+    .strucText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    padding: 9px 0 0 32px;
+    color: #5E646F;
+    }
+    .marketText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    margin: -12px 0 0 24px;
+    color: #9BA5B7;
+    }
+    .horizon{
+    width: 17.75px;
+    height: 0px;
+    left: 414.76px;
+    top: 301.01px;
+    margin: -16px 0 0 80px;
+    border: 0.845026px solid #C1CBDE;
+    transform: rotate(90deg);
+    }
+    .positText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    margin: -15px 0 0 113px;
+    color: #5E646F;
+    }
+    .direcText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 3px 0 0 107px;
+    color: #9BA5B7;
+    }
+    .sendMail{
+    height: 9.655086517333984px;
+    width: 12.675395011901855px;
+    border-radius: 0px;
+    margin: -75px 0 0 12px;
+    }
+    .sendText{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        padding: 8px 0 0 31.45px;
+        color: #507FF9;
+    }
+    .sendDiv{
+    width: 82.81px;
+    height: 28.73px;
+    margin: 8.3px 0 10px 125px;
+    background: #FFFFFF;
+    border: 0.845026px solid #E9E9E9;
+    box-sizing: border-box;
+    border-radius: 3.38011px;
+    cursor: pointer;
+    }
+    .sendDiv:hover{
+        border: 0.5px solid blue;
+    }
+
+    /*view*/
+    .viewMail{
+        height: 11.83036994934082px;
+        width: 10.605718612670898px;  
+        border-radius: 0px;
+        margin: -75px 0 0 22px;
+        }
+        .viewText{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 14px;
+            padding: 8px 0 0 39.8px;
+            color: #507FF9;
+        }
+        .viewDiv{
+        width: 82.81px;
+        height: 28.73px;
+        margin: -38.5px 0 10px 34.76px;
+        background: #FFFFFF;
+        border: 0.845026px solid #E9E9E9;
+        box-sizing: border-box;
+        border-radius: 3.38011px;
+        cursor: pointer;
+        }
+        .viewDiv:hover{
+            border: 0.5px solid blue;
+        }
+        .fourLine{
+            position: absolute;
+            margin: 220px 0 0 -280px;
+        }
+        .fiveLine{
+            position: absolute;
+            margin: 230px 0 0 -280px;
+        }
+        .personBox1{
+            position: absolute;
+            width: 242px;
+            left: calc(62% - 242px/2 - 305.5px);
+            margin-top: 218px;
+            background: #FFFFFF;
+            box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+            border-radius: 6.76021px;
+            cursor: pointer;
+            }
+            .fourLine2{
+                position: absolute;
+                margin: 220px 0 0 130px;
+            }
+            .fiveLine2{
+                position: absolute;
+                margin: 230px 0 0 260px;
+            }
+            .personBox2{
+                position: absolute;
+                width: 242px;
+                left: calc(106% - 242px/2 - 305.5px);
+                margin-top: 218px;
+                background: #FFFFFF;
+                box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+                border-radius: 6.76021px;
+                cursor: pointer;
+                }
+                .twoLine1{
+                    position: absolute;
+                    margin: 550px 0 0 255px;
+                }
+                .personBox3{
+                    position: absolute;
+                    width: 242px;
+                    left: calc(106% - 242px/2 - 305.5px);
+                    margin-top: 480px;
+                    background: #FFFFFF;
+                    box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+                    border-radius: 6.76021px;
+                    }
+                    .twoLine2{
+                        position: absolute;
+                        margin: 550px 0 0 -260px;
+                    }
+                    .personBox4{
+                        position: absolute;
+                        width: 242px;
+                        left: calc(62% - 242px/2 - 305.5px);
+                        margin-top: 480px;
+                        background: #FFFFFF;
+                        box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+                        border-radius: 6.76021px;
+                        }

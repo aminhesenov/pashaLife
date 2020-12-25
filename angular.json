@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "pashaLife"
+  "defaultProject": "pashaLife",
+  "cli": {
+    "analytics": "2e8e5a73-c12f-41b1-a689-237b3a235ee3"
+  }
 }

@@ -1,0 +1,89 @@
+.structureDiv{
+    width: 232.74px;
+    height: 612px;
+    margin: -20px 0 0 36px;
+    background: #FFFFFF;
+    box-shadow: 0.648305px 1.94492px 7.77966px rgba(0, 0, 0, 0.03);
+    border-radius: 11.6695px;
+   }
+   .structureText{
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 16.2076px;
+       line-height: 19px;
+       padding: 25.28px 0 0 18.8px;
+      color: #333150;
+   }
+   .str{
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 13px;
+       line-height: 15px;
+       padding: 0 0 0 19px;
+       color: #454460;
+   }
+   .strTwo1{
+       width: 23.34px;
+       height: 13.61px;
+       background: #F2F0FE;
+       border-radius: 1.29661px;
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 7.13136px;
+       line-height: 8px;
+      /* identical to box height */
+      padding: 3px 0 0 4px;
+      margin: -30px 0 0 89.47px;
+       color: #826CFC;
+   }
+   .strTwo2{
+       width: 23.34px;
+       height: 13.61px;
+       background: #C0E8FF;
+       border-radius: 1.29661px;
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 7.13136px;
+       line-height: 8px;
+      /* identical to box height */
+      padding: 3px 0 0 4px;
+      margin: -13px 0 0 116px;
+      color: #0085FF;
+   }
+   .strTwo3{
+       width: 23.34px;
+       height: 13.61px;
+       background: #D7FFE2;
+       border-radius: 1.29661px;
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 7.13136px;
+       line-height: 8px;
+      /* identical to box height */
+      padding: 3px 0 0 4px;
+      margin: -13.5px 0 0 142px;
+      color: #54B806;
+   }
+   .strTwo4{
+       width: 23.34px;
+       height: 13.61px;
+       background: #FFF9C7;
+       border-radius: 1.29661px;
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 7.13136px;
+       line-height: 8px;
+      /* identical to box height */
+      padding: 3px 0 0 4px;
+      margin: -13.5px 0 0 168px;
+      color: #D5A707;
+   }
+   .downIcon{
+       margin: -40px 0 0 204.86px;
+   }

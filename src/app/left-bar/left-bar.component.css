@@ -1,0 +1,134 @@
+.leftDiv{
+    height: 1111px;
+    width: 256px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #FFFFFF;
+    box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.06);
+    
+    }
+    .profileL{
+    height: 47px;
+    width: 52px;
+    left: -9px;
+    top: 0px;
+    margin: 85px 0 0 15px;
+    }
+    .personName{
+    /* Pasha Life */
+    height: 14px;
+    width: 67px;
+    
+    position: absolute;
+    left: 6.02%;
+    right: 89.29%;
+    top: 8.19%;
+    bottom: 90.55%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 40px 0 0 3px;
+    
+    /* black */
+    
+    color: #192A3E;
+    }
+    .personMail{
+        /* Pashalife@mail.com */
+    
+    padding: 48px 0 0 3px;
+    position: absolute;
+    left: 6.02%;
+    right: 86.7%;
+    top: 10.17%;
+    bottom: 88.75%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 0.01em;
+    
+    /* gray */
+    
+    color: #90A0B7;
+    }
+    .icon{
+    height: 15px;
+    width: 15px;
+    left: 2.5px;
+    top: 2.5px;
+    
+    left: 12.5%;
+    right: 12.5%;
+    top: 12.5%;
+    bottom: 12.5%;
+    }
+    .menuTitle{
+        padding: 41.5px 16.5px 25px 26.5px;
+    }
+    .menuDashboard{
+    height: 16px;
+    width: 68px;
+    left: 58px;
+    top: 173px;
+    border-radius: nullpx;
+    left: 4.06%;
+    right: 91.18%;
+    top: 15.57%;
+    bottom: 82.99%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    letter-spacing: 0.01em;
+    
+    color: #4F9BFF;
+    padding-left: 16.5px;
+    }
+    .menuListItem{
+        height: 16px;
+        width: 35px;
+        left: 58px;
+        top: 213px;
+        border-radius: nullpx;
+    /* Tasks */
+    
+    bottom: 79.39%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    letter-spacing: 0.01em;
+    
+    /* dark_blue */
+    padding-left: 16.5px;
+    color: #334D6E;    
+    }
+    .menuListItem:hover{
+        text-decoration-color: blue;
+    }
+    .horizontalLine{
+        position: absolute;
+        width: 256px;
+        height: 1px;
+        left: 0px;
+        top: 400px;
+        
+        /* divider */
+        
+        background: #EBEFF2;
+    }

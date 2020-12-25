@@ -1,0 +1,368 @@
+.rightDiv{
+    /* Rectangle 18 */
+position: absolute;
+left: calc(50% - 1173px/2 + 128px);
+top: 0%;
+bottom: 0%;
+width: 1173px;
+height: 1111px;
+background: #FDFDFD;
+}
+.manPhoto{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+float: right;
+height: 40px;
+width: 40px;
+border-radius: 0px;
+margin: 10px 27px 10px 16px;
+}
+.notification{
+    /* Vector */
+left: 6.3%;
+cursor: pointer;
+float: right;
+right: 6.26%;
+top: 6.25%;
+bottom: 6.27%;
+margin: 19.5px 16px 19.51px 0;
+}
+.circle{
+position: absolute;
+width: 16px;
+height: 16px;
+margin-top: 2px;
+right: 90px;
+top: calc(50% - 16px/2 - 535.5px);
+}
+.horizontal{
+margin-top: 60px;
+height: 1px;
+left: 256px;
+right: -38px;
+top: 60px;
+
+/* divider */
+width: 100%;
+border-radius: 0px;
+
+background: #EBEFF2;
+}
+/*personal*/
+.backIcon{
+width: 23.37px;
+height: 24px;
+border-radius: 4px;
+margin: 35px 0 0 32px;
+cursor: pointer;
+float: left;
+}
+.backText{
+    /* Geri qayıt */
+
+width: 64px;
+height: 18px;
+left: 328px;
+top: 99px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+float: left;
+color: #A5A8B3;
+padding: 38px 0 0 3.25px;
+cursor: pointer;
+}
+.personBox{
+position: absolute;
+width: 242px;
+left: calc(39% - 242px/2 - 305.5px);
+top: 16.29%;
+bottom: 65.17%;
+
+background: #FFFFFF;
+box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+border-radius: 6.76021px;
+}
+.imageEgiht{
+width: 63.18px;
+height: 63.18px;
+left: 311.1px;
+top: 202.56px;
+margin: 21.56px 0 0 23.1px;
+}
+.toghrul{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+
+color: #6F737C;
+}
+.emailToghrul{
+width: 121px;
+height: 13px;
+
+margin: -45px 0 0 90px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+color: #6F737C;
+}
+.doubleTwo1{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 9.29529px;
+line-height: 11px;
+/* identical to box height */
+
+width: 30.42px;
+height: 17.75px;
+left: 376.29px;
+top: 254.31px;
+padding: 4px 0 0 5px;
+background: #F2F0FE;
+border-radius: 1.69005px;
+color: #826CFC;
+}
+.groupTwo{
+    margin: 8.5px 0 0 88.29px;
+}
+.doubleTwo2{
+width: 30.42px;
+height: 17.75px;
+left: 410.94px;
+top: 254.31px;
+
+background: #C0E8FF;
+border-radius: 1.69005px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 9.29529px;
+line-height: 11px;
+/* identical to box height */
+padding: 4px 0 0 5px;
+color: #0085FF;
+
+margin: -34px 0 0 35px;
+}
+.doubleTwo3{
+width: 30.42px;
+height: 17.75px;
+left: 445.58px;
+top: 254.31px;
+
+background: #D7FFE2;
+border-radius: 1.69005px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 9.29529px;
+line-height: 11px;
+/* identical to box height */
+margin: -17.5px 0 0 70px;
+padding: 4px 0 0 5px;
+color: #54B806;
+}
+.doubleTwo4{
+width: 30.42px;
+height: 17.75px;
+left: 480.23px;
+top: 254.31px;
+
+background: #FFF9C7;
+border-radius: 1.69005px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 9.29529px;
+line-height: 11px;
+/* identical to box height */
+
+margin: -17.5px 0 0 105px;
+padding: 4px 0 0 5px;
+color: #D5A707;
+}
+.spDiv{
+width: 174.08px;
+height: 50.7px;
+left: 321.76px;
+top: 285.25px;
+
+background: #F7FCFF;
+border-radius: 5.07016px;
+margin: 13.2px 0 0 33.76px;
+}
+.strucText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+padding: 9px 0 0 32px;
+color: #5E646F;
+}
+.marketText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+margin: -12px 0 0 24px;
+color: #9BA5B7;
+}
+.horizon{
+width: 17.75px;
+height: 0px;
+left: 414.76px;
+top: 301.01px;
+margin: -16px 0 0 80px;
+border: 0.845026px solid #C1CBDE;
+transform: rotate(90deg);
+}
+.positText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+margin: -15px 0 0 113px;
+color: #5E646F;
+}
+.direcText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+margin: 3px 0 0 107px;
+color: #9BA5B7;
+}
+.sendMail{
+height: 9.655086517333984px;
+width: 12.675395011901855px;
+border-radius: 0px;
+margin: -75px 0 0 12px;
+}
+.sendText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    padding: 8px 0 0 31.45px;
+    color: #507FF9;
+}
+.sendDiv{
+width: 82.81px;
+height: 28.73px;
+margin: 8.3px 0 0 79px;
+background: #FFFFFF;
+border: 0.845026px solid #E9E9E9;
+box-sizing: border-box;
+border-radius: 3.38011px;
+cursor: pointer;
+}
+.sendDiv:hover{
+    border: 0.5px solid blue;
+}
+.personDetails{
+width: 851px;
+height: 816px;
+float: right;
+background: #FFFFFF;
+box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+border-radius: 6.76021px;
+margin: 105px 21px 0 0;
+}
+.personalinformationText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+padding: 24px 0 0 39px;
+color: #A5ABC2;
+cursor: pointer;
+}
+.structureMenuText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+cursor: pointer;
+margin: -35px 0 0 251px;
+color: #507FF9;
+}
+.positionMenuText{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+margin: -18px 0 0 484px;
+color: #A5ABC2;
+cursor: pointer;
+}
+.xIcon{
+    width: 12px;
+    height: 12px;
+    float: right;
+    margin: -30px 14px 0 0;
+    cursor: pointer;
+}
+.lineMenu{
+    border: 1px solid #EBEBEB;
+    margin-top: 20px;
+}
+.line9{
+    margin: -65px 0 0 251px;
+    width: 131px;
+}
+.textArea{
+width: 821px;
+height: 714px;
+margin: -15px 0 0 15px;
+background: #FCFCFF;
+border-radius: 10px;
+}
+.personalInfoText{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 22px;
+padding: 50px 0 0 24px;
+color: #6378C8;
+}
+.descriptionText{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.1em;
+padding: 30px 34px 0 25px;
+color: #7C8196;
+}
